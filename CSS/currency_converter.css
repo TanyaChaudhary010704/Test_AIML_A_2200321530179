@@ -10,12 +10,7 @@
 .sidebar{
   background-color: pink;
   width: 30%;
-  height: 80vh;
-  display: inline-block;
-}
-.main{
-  width: 60%;
-  height: 80vh;
+  height: 70vh;
   display: inline-block;
 }
 .footer{
